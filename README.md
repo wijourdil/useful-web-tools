@@ -9,6 +9,7 @@
 
 ## 🌱 Carbon footprint
 ### https://greenframe.io
+### https://www.websitecarbon.com/
 
 ## ♿ Accessibility
 ### https://web.dev/measure
