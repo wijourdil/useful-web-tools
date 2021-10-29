@@ -32,5 +32,8 @@
 ## Laravel IDE helper (phpdoc for facades, models, ...)
 * https://packagist.org/packages/barryvdh/laravel-ide-helper
 
+## Boost your Eloquent Models
+* https://packagist.org/packages/betterapp/laravel-db-encrypter
+
 ## Debugging tools
 * https://packagist.org/packages/barryvdh/laravel-debugbar
