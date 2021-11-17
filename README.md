@@ -25,6 +25,7 @@
 * https://packagist.org/packages/squizlabs/php_codesniffer
 * https://packagist.org/packages/nunomaduro/larastan
 * https://packagist.org/packages/thecodingmachine/phpstan-safe-rule
+* https://packagist.org/packages/phpstan/phpstan-webmozart-assert
 
 ## Laravel translations generation
 * https://packagist.org/packages/laravel-lang/lang
