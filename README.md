@@ -20,6 +20,13 @@
 
 <div align="center">● ● ●</div>
 
+# ⌨️ Useful command line tools
+
+## Git helpers and tools
+* https://github.com/jasonmccreary/git-trim
+
+<div align="center">● ● ●</div>
+
 # 🎻 Must have PHP/Laravel packages
 
 ## Override native PHP functions with Exceptions
