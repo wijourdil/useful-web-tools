@@ -24,6 +24,7 @@
 
 ## Git helpers and tools
 * https://github.com/jasonmccreary/git-trim
+* https://github.com/dandavison/delta
 
 <div align="center">● ● ●</div>
 
