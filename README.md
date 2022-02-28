@@ -26,6 +26,12 @@
 * https://github.com/jasonmccreary/git-trim
 * https://github.com/dandavison/delta
 
+## npm interactive upgrade tool
+* https://github.com/dylang/npm-check
+
+## Xdebug switch on/off
+* https://github.com/ihorvorotnov/xdebug.sh
+
 <div align="center">● ● ●</div>
 
 # 🎻 Must have PHP/Laravel packages
