@@ -8,6 +8,9 @@
 ## 🔍 SEO
 ### https://pagelocity.com
 
+## 🔒 Security
+### https://ephort.dk/scanner
+
 ## 🌱 Carbon footprint
 ### https://greenframe.io
 ### https://www.websitecarbon.com/
