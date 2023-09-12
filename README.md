@@ -4,9 +4,12 @@
 ### https://gtmetrix.com
 ### https://tools.pingdom.com
 ### https://www.atatus.com
+### https://web-check.xyz/
 
 ## 🔍 SEO
 ### https://pagelocity.com
+### https://www.seobility.net/en/
+### https://keyword.com/
 
 ## 🔒 Security
 ### https://ephort.dk/scanner
@@ -29,6 +32,7 @@
 ## Git helpers and tools
 * https://github.com/jasonmccreary/git-trim
 * https://github.com/dandavison/delta
+* https://www.git-tower.com/
 
 ## npm interactive upgrade tool
 * https://github.com/dylang/npm-check
