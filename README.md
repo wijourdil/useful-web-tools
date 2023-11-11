@@ -4,7 +4,6 @@
 ### https://gtmetrix.com
 ### https://tools.pingdom.com
 ### https://www.atatus.com
-### https://web-check.xyz/
 
 ## 🔍 SEO
 ### https://pagelocity.com
