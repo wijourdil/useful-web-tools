@@ -14,6 +14,9 @@
 ### https://www.urlvoid.com
 ### https://ephort.dk/scanner
 
+## ✉️ Mails & Newsletters
+### https://www.mail-tester.com/
+
 ## 🌱 Carbon footprint
 ### https://greenframe.io
 ### https://www.websitecarbon.com/
