@@ -9,6 +9,7 @@
 ### https://pagelocity.com
 ### https://www.seobility.net/en/
 ### https://keyword.com/
+### https://www.seoptimer.com/fr/
 
 ## 🔒 Security
 ### https://www.urlvoid.com
